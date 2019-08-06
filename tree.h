@@ -1,3 +1,7 @@
+// Kurt Kaiser
+// kurtkaiser.us
+// Simple Binary Search Tree
+
 #ifndef TREE_H
 #define TREE_H
 
