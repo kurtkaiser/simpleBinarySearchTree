@@ -1,3 +1,7 @@
+// Kurt Kaiser
+// kurtkaiser.us
+// Simple Binary Search Tree
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <assert.h>
